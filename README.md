@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adml003" target="blank"><img src="https://img.shields.io/twitter/follow/adml003?logo=twitter&style=for-the-badge" alt="adml003" /></a> </p>
 
-- 🔭 I’m currently working on [Airbnb Clone Project](https://github.com/ADML003/AirbnbClone.git)
+- 🔭 I’m currently working on [Cryptoflex Project](https://github.com/ADML003/cryptoflex)
 
 - 🌱 I’m currently learning **full stack web development.**
 
