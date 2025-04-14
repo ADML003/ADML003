@@ -1,6 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Malhotra;Full-Stack+Developer+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
+<!-- Animated SVG Background Wave -->
+<div align="center">
+  <svg viewBox="0 0 120 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#0F4C75" fill-opacity=".2" d="M0 17l10-2c10-4 30-12 50-8s40 22 60 18 40-32 50-35 30 16 40 19 30-2 40 5v12H0z"></path>
+  </svg>
+</div>
+
 
 <h3 align="center">🚀 Passionate developer turning ideas into scalable web apps. Driven by creativity, obsessed with clean code.</h3>
 
@@ -58,33 +65,34 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADML003&theme=react-dark" alt="Aditya's Activity Graph" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views Badge" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ADML003">
-    <img src="https://komarev.com/ghpvc/?username=ADML003&label=Profile+views&color=0e75b6&style=flat" alt="ADML003" />
-  </a>
-  <a href="https://github.com/ADML003?tab=followers">
-    <img src="https://img.shields.io/github/followers/ADML003?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/ADML003?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ADML003?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  </a>
-</p>
-
----
-### ✨ What Keeps Me Going
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
-</p>
+---
+### ✨ What keeps me going
 
-- 💙 I love to **code** and explore new tech.
-- 🏏 I love playing cricket – Virat Kohli inspires me to give my best every time
-- 🎾 Huge fan of **tennis** – RAFA all the way!
-- 🎯 Always up for solving real-world problems with tech.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="Coding gif"/>
+      <br><b>Coding</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oz8xZvvOZRmKay4xy/giphy.gif" width="140" alt="Cricket gif"/>
+      <br><b>Cricket</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/MH7OUeY8nN3rLRZkvd/giphy.gif" width="140" alt="Tennis gif"/>
+      <br><b>Tennis</b>
+    </td>
+  </tr>
+</table>
+
+- 💙 I love to **code** and explore new tech  
+- 🏏 I enjoy playing **cricket** — *Virat Kohli is my idol!*  
+- 🎾 Huge fan of **tennis** — *RAFA all the way!*  
+- 🎯 Always up for solving real-world problems with tech
 
 
 
