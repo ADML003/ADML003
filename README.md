@@ -60,9 +60,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views Badge" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" /> </p>
-📊 Stats & Contributions
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </div>
+<p align="center">
+  <a href="https://github.com/ADML003">
+    <img src="https://komarev.com/ghpvc/?username=ADML003&label=Profile+views&color=0e75b6&style=flat" alt="ADML003" />
+  </a>
+  <a href="https://github.com/ADML003?tab=followers">
+    <img src="https://img.shields.io/github/followers/ADML003?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/ADML003?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ADML003?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  </a>
+</p>
+
 ---
 ### ✨ What Keeps Me Going
 
