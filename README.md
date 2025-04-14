@@ -43,7 +43,10 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ADML003&bg_color=ffffff&color=000000&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  ### 🔥 Contribution Graph
+
+[![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADML003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 ---
