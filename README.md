@@ -61,18 +61,18 @@
 ---
 ### ✨ What Keeps Me Going
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" /> </p>
-💙 I’m passionate about coding and diving into new tech
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="Code Vibes" />
 
-🏏 I love playing cricket – Virat Kohli inspires me to give my best every time
-<img src="https://media.giphy.com/media/3o7TKP9o1Xv8gPf2VO/giphy.gif" width="200" alt="Virat Kohli" />
 
-🎾 Huge fan of tennis – it’s always RAFA for me!
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="200" alt="Rafa Nadal" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
+</p>
 
-🎯 Obsessed with solving real-world problems through tech and innovation
-<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="200" alt="Problem Solving" />
+- 💙 I love to **code** and explore new tech.
+- 🏏 I love playing cricket – Virat Kohli inspires me to give my best every time
+- 🎾 Huge fan of **tennis** – RAFA all the way!
+- 🎯 Always up for solving real-world problems with tech.
+
+
 
 
 ---
