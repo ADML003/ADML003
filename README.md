@@ -36,6 +36,18 @@
 
 ---
 
+### 📊 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADML003&theme=react&hide_border=true" alt="adml003" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ADML003&bg_color=ffffff&color=000000&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 📱 Connect with Me
 
 <p align="left">
