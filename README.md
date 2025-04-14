@@ -59,20 +59,16 @@
 </p>
 
 ---
----
-
-<h3 align="center">Here’s what keeps me going ⬇️</h3>
+### ✨ What keeps me going 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" height="120"/>
-  <img src="https://media.giphy.com/media/l41YlK9g7T9O2Lk2A/giphy.gif" width="120" height="120"/>
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
 </p>
 
-<p align="center">
-  <b>💡 Building</b> | <b>🏏 Competing</b> | <b>🎯 Improving</b>
-</p>
-
+- 💙 I love to **code** and explore new tech.
+- 🏏 I enjoy playing **cricket** with friends.
+- 🎾 Huge fan of **tennis** – Federer all the way!
+- 🎯 Always up for solving real-world problems with tech.
 
 ---
 
