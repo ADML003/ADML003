@@ -61,19 +61,18 @@
 ---
 ---
 
-### ❤️ What I Love To Do
+<h3 align="center">Here’s what keeps me going ⬇️</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Code-%231572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cricket-%23FF6F00?style=for-the-badge&logo=cricket&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tennis-%234CAF50?style=for-the-badge&logoColor=white" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/l41YlK9g7T9O2Lk2A/giphy.gif" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="120" height="120"/>
 </p>
 
-<p align="center" style="font-size: 18px;">
-  💻 Turning ideas into functional web apps <br/>
-  🏏 Hitting cover drives on weekends <br/>
-  🎾 Never missing a Grand Slam final
+<p align="center">
+  <b>💡 Building</b> | <b>🏏 Competing</b> | <b>🎯 Improving</b>
 </p>
+
 
 ---
 
