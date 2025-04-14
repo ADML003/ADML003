@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building: [**ByteShift – An AI SaaS Application**](https://github.com/ADML003/byteshift)
-- 🌱 Sharpening my skills in **Full Stack Web Development** & **System Design**
+- 🌱 Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
 - ⚡ Fun Fact: I code faster when there’s a deadline 😄
 - 👨‍💻 All of my projects live at: [**GitHub @ADML003**](https://github.com/ADML003)
 - 📫 Let’s collaborate: **adml003.pro@gmail.com**
@@ -58,6 +58,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADML003&theme=react-dark" alt="Aditya's Activity Graph" />
 </p>
 
+👀 GitHub Profile Insights
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ADML003&label=Profile%20views&color=0e75b6&style=flat" alt="ADML003" /> <img src="https://img.shields.io/github/followers/ADML003?label=Follow&style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/ADML003?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" /> </p>
 ---
 ### ✨ What Keeps Me Going
 
