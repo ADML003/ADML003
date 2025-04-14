@@ -59,16 +59,24 @@
 </p>
 
 ---
-### ✨ What keeps me going 
+### ✨ What Keeps Me Going
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
 </p>
 
-- 💙 I love to **code** and explore new tech.
-- 🏏 I enjoy playing **cricket** with friends.
-- 🎾 Huge fan of **tennis** – Federer all the way!
-- 🎯 Always up for solving real-world problems with tech.
+- 💙 I love to **code** and explore new tech.  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding passion"/>
+
+- 🏏 I love playing cricket – Virat Kohli inspires me to give my best every time
+  <img src="https://media.giphy.com/media/UsmcxQ7zEQg7b2mJsR/giphy.gif" width="300" alt="Virat Kohli Cricket"/>
+
+- 🎾 A huge fan of **tennis** – *RAFA all the way!*  
+  <img src="https://media.giphy.com/media/cFdHXXm5GHJsc/giphy.gif" width="300" alt="Rafael Nadal Tennis"/>
+
+- 🎯 Always up for solving real-world problems with tech.  
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" alt="Tech Solutions"/>
+
 
 ---
 
@@ -83,7 +91,7 @@
 
 ---
 
-> 💬 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+> 💬 *“Java is to JavaScript what car is to Carpet.”* — Chris Heilmann
 
 ---
 
