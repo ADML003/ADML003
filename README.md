@@ -59,6 +59,24 @@
 </p>
 
 ---
+---
+
+### ❤️ What I Love To Do
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Code-%231572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cricket-%23FF6F00?style=for-the-badge&logo=cricket&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tennis-%234CAF50?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center" style="font-size: 18px;">
+  💻 Turning ideas into functional web apps <br/>
+  🏏 Hitting cover drives on weekends <br/>
+  🎾 Never missing a Grand Slam final
+</p>
+
+---
+
 
 ### 📱 Connect with Me
 
