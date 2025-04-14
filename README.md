@@ -60,7 +60,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views Badge" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=flat&no-bg=true&no-frame=true&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Trophies" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" /> </p>
+📊 Stats & Contributions
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </div>
 ---
 ### ✨ What Keeps Me Going
 
