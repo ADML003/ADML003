@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Malhotra;Full-Stack+Developer+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Aditya+Malhotra
 
 
 <h3 align="center">🚀 Passionate developer turning ideas into scalable web apps. Driven by creativity, obsessed with clean code.</h3>
