@@ -1,11 +1,3 @@
-
-
-<!-- Animated SVG Background Wave -->
-<div align="center">
-  <svg viewBox="0 0 120 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#0F4C75" fill-opacity=".2" d="M0 17l10-2c10-4 30-12 50-8s40 22 60 18 40-32 50-35 30 16 40 19 30-2 40 5v12H0z"></path>
-  </svg>
-</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Malhotra;Full-Stack+Developer+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
@@ -74,23 +66,9 @@
 
 ---
 ### ✨ What keeps me going
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="Coding gif"/>
-      <br><b>Coding</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oz8xZvvOZRmKay4xy/giphy.gif" width="140" alt="Cricket gif"/>
-      <br><b>Cricket</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/MH7OUeY8nN3rLRZkvd/giphy.gif" width="140" alt="Tennis gif"/>
-      <br><b>Tennis</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
+</p>
 
 - 💙 I love to **code** and explore new tech  
 - 🏏 I enjoy playing **cricket** — *Virat Kohli is my idol!*  
