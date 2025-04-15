@@ -59,9 +59,6 @@
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADML003&theme=github_dark)
 ![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADML003&theme=github_dark)
 
-### 🏙️ My GitHub Skyline
-
-[View My 3D GitHub Skyline](https://skyline.github.com/ADML003/2024)
 
 ### 📈 GitHub Summary Cards
 
