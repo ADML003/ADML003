@@ -57,8 +57,9 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADML003&theme=react&hide_border=true" alt="adml003" />
+  <img src="https://streak-stats.demolab.com?user=ADML003&theme=react&hide_border=true" alt="adml003" />
 </p>
+
 
 ### 🔥 Contribution Graph
 
