@@ -26,3 +26,4 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Generated Snake"
           add: "dist/*.svg"
+
