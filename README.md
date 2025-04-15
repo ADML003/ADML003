@@ -54,10 +54,9 @@
 
 ---
 
-### 🏙️ My GitHub Skyline
+### 📈 GitHub Summary Cards
 
-[![GitHub Skyline](https://raw.githubusercontent.com/skylineproject/static-assets/main/skyline-preview.gif)](https://skyline.github.com/ADML003/2024)
-
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADML003&theme=github_dark)
 
 
 
