@@ -54,11 +54,10 @@
 
 ---
 
-### 📈 GitHub Activity
+### 🏙️ My GitHub Skyline
 
-<p align="center">
-  <img src="https://your-username.vercel.app?user=ADML003&theme=react&hide_border=true" alt="adml003" />
-</p>
+[![GitHub Skyline](https://raw.githubusercontent.com/skylineproject/static-assets/main/skyline-preview.gif)](https://skyline.github.com/ADML003/2024)
+
 
 
 
