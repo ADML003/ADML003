@@ -64,9 +64,7 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADML003&theme=github_dark)
 
-### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ADML003/ADML003/output/github-contribution-grid-snake.svg)
 
 
 ### 🔥 Contribution Graph
