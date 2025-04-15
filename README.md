@@ -53,6 +53,13 @@
 
 
 ---
+### 📈 GitHub Stats & Activity
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADML003&show_icons=true&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADML003&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADML003&theme=github_dark&utcOffset=5)
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADML003&theme=github_dark)
+
 
 ### 📈 GitHub Summary Cards
 
