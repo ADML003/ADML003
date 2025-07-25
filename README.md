@@ -29,7 +29,7 @@
 ### 🚀 Featured Projects
 
 - 🧠 **PixPro** – AI SaaS platform for image manupulations
-- 🏡 **Airbnb Clone** – Real-time booking with React & Node.js
+- 🏡 **Travelisto** – AI supported trip generation platform powered by Gemini x Unsplash
 - 🏦 **Banking System** – Secure transactions with multi-factor authentication
 - 🎒 **LOST and FOUND** – Campus-wide solution for misplaced items
 
