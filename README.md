@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 About Me
+### 🔶About Me
 
 - 🔭 Currently building: My Portfolio 👀
 - 🌱 Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
