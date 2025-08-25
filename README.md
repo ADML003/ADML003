@@ -18,7 +18,7 @@
 
 ### 🔶About Me
 
-- 🔭 Currently building: My Portfolio 👀
+- 🔭 Currently building: Nexus(Portia.ai powered Agentic Web App)
 - 🌱 Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
 - ⚡ Fun Fact: I code faster when there’s a deadline 😉
 - 👨‍💻 All of my projects live at: [**GitHub @ADML003**](https://github.com/ADML003)
