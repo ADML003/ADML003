@@ -19,7 +19,7 @@
 ### 🔶About Me
 
 - 🔭 Currently Working on: AI- Researcher powered by Cerebres
-- 🌱 Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
+- 🎗️ Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
 - ⚡ Fun Fact: I code faster when there’s a deadline 😉
 - 👨‍💻 All of my projects live at: [**GitHub @ADML003**](https://github.com/ADML003)
 - 📫 Let’s collaborate: **adml003.pro@gmail.com**
