@@ -16,7 +16,7 @@
 
 ---
 
-### 🧑‍💻About Me
+### 🔶About Me
 
 - 🔭 Currently Working on: AI- Researcher powered by Cerebres
 - 🎗️ Sharpening my skills in **Full Stack Web Development** & **Machine Learning**
