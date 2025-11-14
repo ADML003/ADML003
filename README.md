@@ -97,7 +97,7 @@
 ---
 
 
-### 📱 Connect with Me
+### 📇 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/adml003" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
