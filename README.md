@@ -29,7 +29,7 @@
 ### 🚀 Featured Projects
 
 - 📸 **PixPro** – AI SaaS platform for image manupulations
-- 🏡 **Travelisto** – AI supported trip generation platform powered by Gemini x Unsplash
+- 🏡 **Travelisto** – AI supported trip generation platform powered by Gemini x Unsplash with customizations
 - 🏦 **Analytics Dashboard** – Analytics Dashboard designed for Marketing Agencies with modern features
 
 
