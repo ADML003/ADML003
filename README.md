@@ -70,7 +70,7 @@
 
 
 
-### 🔥 Contribution Graph
+### 👉Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADML003&theme=react-dark" alt="Aditya's Activity Graph" />
