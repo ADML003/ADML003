@@ -20,7 +20,7 @@
 
 - 🔭 Currently Working on: AI- Researcher powered by Cerebres
 - 🎗️ Sharpening my skills in **Full Stack Web Development** & **Gen AI**
-- ⚡ Fun Fact: I code faster when there’s a deadline 😉
+- ♾️ Fun Fact: I code faster when there’s a deadline 😉
 - 👨‍💻 All of my projects live at: [**GitHub @ADML003**](https://github.com/ADML003)
 - 📫 Let’s collaborate: **reach.adml@gmail.com**
 
